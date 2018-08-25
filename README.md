@@ -35,9 +35,8 @@ Installing IntelliJ IDEA
 
     https://www.jetbrains.com/idea/download/#section=windows
     When file is downloaded, follow the guid step by step. 
-    Make sure that you select Eclipse IDE for JavaEE and the latest version.
     (There is free ultimate version is awailable for students, follow the link: https://www.jetbrains.com/student/
-    Make sure that you select Eclipse IDE for JavaEE and the latest version.
+    
 
 Maven
 
@@ -48,19 +47,18 @@ Maven
 TomEE
 
     Here is the path to install TomEE: https://tomcat.apache.org/download-80.cgi
-    If you prefere an installation video tutorial: https://www.youtube.com/watch?v=Lr8pxEACVRI
+    
 
 JSF
 
     As I mentioned under IntelliJ IDEA, one you choose 'Maven Project' the editor will complete all the configurations. 
-
     Path for adding dependency to your project. IntelliJ IDEA > Code > Generare > Dependencies
 
 
 Author
 
     Mahmut Alban 
-
+    
 Acknowledgments
 
     Stackoverflow
