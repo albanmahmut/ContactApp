@@ -54,7 +54,7 @@ Path for adding dependency to your project. IntelliJ IDEA > Code > Generare > De
 
 ### User Login Flow
 
-![Login Flow](D:/Drive/Projects/SpringContactApp/User_Login_Flow.jpeg)
+![Login Flow](/SpringContactApp/User_Login_Flow.jpg)
 
 
 ### Author
