@@ -31,7 +31,8 @@ URL: [URL](https://github.com/albanmahmut/ContactApp)
 
 ### Installing IntelliJ IDEA
 
-[URL](https://www.jetbrains.com/idea/download/#section=windows)
+[Download Link](https://www.jetbrains.com/idea/download/#section=windows)
+
 When file is downloaded, follow the guid step by step. 
 (There is free ultimate version is awailable for students, follow the [URL](https://www.jetbrains.com/student/)
     
@@ -54,7 +55,7 @@ Path for adding dependency to your project. IntelliJ IDEA > Code > Generare > De
 
 ### User Login Flow
 
-![Login Flow](/SpringContactApp/User_Login_Flow.jpg)
+![Login Flow](/SpringContactApp/User Login Flow.jpg)
 
 
 ### Author
