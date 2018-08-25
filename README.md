@@ -57,7 +57,7 @@ JSF
     Path for adding dependency to your project. IntelliJ IDEA > Code > Generare > Dependencies
 
 
-Authors
+Author
 
     Mahmut Alban 
 
