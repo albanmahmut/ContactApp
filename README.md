@@ -1,30 +1,28 @@
 # ContactApp 
 
-	[Documentation](https://albanmahmut.github.io/ContactApp/)
+[Documentation](https://albanmahmut.github.io/ContactApp/)
 
-Spring MVC - Contact Application
+## Spring MVC - Contact Application. Java EE Project.
 
-    Project includes DAO, Services, Business Logic, Controller, Loose Coupling, Modular Development, Unit Testing, 
-    Modular View, User Login-Logout, Session Handing, CRUD Operation, Connection Pool(DataSource), JSTL taglib, JSP View, 
-    Message error/success.
-
-Java EE Project
+Project includes DAO, Services, Business Logic, Controller, Loose Coupling, Modular Development, Unit Testing, \
+Modular View, User Login-Logout, Session Handing, CRUD Operation, Connection Pool(DataSource), JSTL taglib, JSP View, 
+Message error/success.
 
 Getting Started
 
-    To get a copy of Chat-Application you have to clone or fork the project to your local machine
-    URL: [URL](https://github.com/RobertoBlanco84/Chat-Application.git)
+To get a copy of Chat-Application you have to clone or fork the project to your local machine
+URL: [URL](https://github.com/RobertoBlanco84/Chat-Application.git)
 
 Tech Stack;
 
-    Java SE (Core Java)
-    Java EE - JSP, Servlet
-    Spring Web MVC Framework
-    MySQL latest
-    Server - Apache Tomcat 9.x
-    UI Tech - HTML, CSS, JS
-    AJAX throw JQerry
-    Build Tool - Apache Maven
+Java SE (Core Java)
+Java EE - JSP, Servlet
+Spring Web MVC Framework
+MySQL latest
+Server - Apache Tomcat 9.x
+UI Tech - HTML, CSS, JS
+AJAX throw JQerry
+Build Tool - Apache Maven
 
 
 Followed Standarts;
