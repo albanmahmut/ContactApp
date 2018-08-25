@@ -1,6 +1,6 @@
 # ContactApp 
 
-https://albanmahmut.github.io/ContactApp/
+	[Documentation](https://albanmahmut.github.io/ContactApp/)
 
 Spring MVC - Contact Application
 
@@ -13,7 +13,7 @@ Java EE Project
 Getting Started
 
     To get a copy of Chat-Application you have to clone or fork the project to your local machine
-    URL: https://github.com/RobertoBlanco84/Chat-Application.git
+    URL: [URL](https://github.com/RobertoBlanco84/Chat-Application.git)
 
 Tech Stack;
 
@@ -35,9 +35,9 @@ Followed Standarts;
 
 Installing IntelliJ IDEA
 
-    https://www.jetbrains.com/idea/download/#section=windows
+    [URL](https://www.jetbrains.com/idea/download/#section=windows)
     When file is downloaded, follow the guid step by step. 
-    (There is free ultimate version is awailable for students, follow the link: https://www.jetbrains.com/student/
+    (There is free ultimate version is awailable for students, follow the [URL](https://www.jetbrains.com/student/)
     
 
 Maven
@@ -48,7 +48,7 @@ Maven
 
 TomEE
 
-    Here is the path to install TomEE: https://tomcat.apache.org/download-80.cgi
+    Here is the path to install TomEE [URL]: (https://tomcat.apache.org/download-80.cgi)
     
 
 JSF
