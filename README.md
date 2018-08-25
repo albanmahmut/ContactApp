@@ -52,6 +52,10 @@ Here is the path to install TomEE [URL]: (https://tomcat.apache.org/download-80.
 As I mentioned under IntelliJ IDEA, one you choose 'Maven Project' the editor will complete all the configurations. 
 Path for adding dependency to your project. IntelliJ IDEA > Code > Generare > Dependencies
 
+### User Login Flow
+
+![Login Flow](D:/Drive/Projects/SpringContactApp/User_Login_Flow.jpeg)
+
 
 ### Author
 
@@ -59,7 +63,7 @@ Mahmut Alban
     
 ### Acknowledgments
 
-Stackoverflow
-Youtube
-Google
+Stackoverflow,
+Youtube,
+Google.
 
