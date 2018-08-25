@@ -57,7 +57,7 @@ Path for adding dependency to your project. IntelliJ IDEA > Code > Generare > De
 # Project Business Requirement Document
 
 
-![BRD Document](https://github.com/albanmahmut/ContactApp/blob/master/capp_BRD.jpg)
+![BRD Document](https://raw.githubusercontent.com/albanmahmut/ContactApp/master/capp_BRD.jpg)
 
 
 # Project Archiceture
