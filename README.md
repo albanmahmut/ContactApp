@@ -78,10 +78,8 @@ Path for adding dependency to your project. IntelliJ IDEA > Code > Generare > De
 ### Sample Data
 
 
-![Sample Data_1](https://raw.githubusercontent.com/albanmahmut/ContactApp/master/SampleData_capp_Page_1.jpg)
+![Sample Data](https://github.com/albanmahmut/ContactApp/blob/master/SampleData_capp.pdf)
 
-
-![Sample Data_2](https://raw.githubusercontent.com/albanmahmut/ContactApp/master/SampleData_capp_Page_2.jpg)
 
 
 ### ER-Diagram
