@@ -53,6 +53,11 @@ Here is the path to install TomEE [URL]: (https://tomcat.apache.org/download-80.
 As I mentioned under IntelliJ IDEA, one you choose 'Maven Project' the editor will complete all the configurations. 
 Path for adding dependency to your project. IntelliJ IDEA > Code > Generare > Dependencies
 
+# Project Business Requirement Document
+
+
+![BRD Document](https://github.com/albanmahmut/ContactApp/blob/master/capp_BRD.jpg)
+
 
 # Project Archiceture
 
