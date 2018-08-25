@@ -1,5 +1,3 @@
-# ContactApp 
-
 [Documentation](https://albanmahmut.github.io/ContactApp/)
 
 ## Spring MVC - Contact Application. Java EE Project.
@@ -61,7 +59,7 @@ Mahmut Alban
     
 ### Acknowledgments
 
-    Stackoverflow
-    Youtube
-    Google
+Stackoverflow
+Youtube
+Google
 
