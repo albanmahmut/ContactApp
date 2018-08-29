@@ -8,7 +8,7 @@ Message error/success.
 
 ## Getting Started
 
-To get a copy of Chat-Application you have to clone or fork the project to your local machine
+To get a copy of Application, you have to clone or fork the project to your local machine
 URL: [URL](https://github.com/albanmahmut/ContactApp)
 
 ### Tech Stack;
@@ -33,24 +33,24 @@ URL: [URL](https://github.com/albanmahmut/ContactApp)
 
 [Download Link](https://www.jetbrains.com/idea/download/#section=windows)
 
-When file is downloaded, follow the guid step by step. 
-(There is free ultimate version is awailable for students, follow the [URL](https://www.jetbrains.com/student/)
+When the file is downloaded, follow the guide step by step. 
+(There is free ultimate version available for students, follow the [URL](https://www.jetbrains.com/student/) and prepare the required documents.
     
 
 ### Maven
 
-Open up IntelliJ IDEA
-Go to: IntelliJ > File > New Project > Maven Project. (IntelliJ IDEA will configure automaticly all the plugins)
+Open up IntelliJ IDEA > File > New Project > Maven Project. (IntelliJ IDEA will configure automatically all the plugins for you)
     
 
 ### TomEE
 
-Here is the path to install TomEE [URL]: (https://tomcat.apache.org/download-80.cgi)
+Here is the path how to install TomEE [URL]: (https://tomcat.apache.org/download-80.cgi)
     
 
 ### JSF
 
-As I mentioned under IntelliJ IDEA, one you choose 'Maven Project' the editor will complete all the configurations. 
+As I mentioned under "Installing IntelliJ IDEA", once you choose 'Maven Project' and then the editor will complete all the configurations for you. 
+
 Path for adding dependency to your project. IntelliJ IDEA > Code > Generare > Dependencies
 
 
@@ -60,10 +60,10 @@ Path for adding dependency to your project. IntelliJ IDEA > Code > Generare > De
 ![BRD Document](https://raw.githubusercontent.com/albanmahmut/ContactApp/master/capp_BRD.jpg)
 
 
-# Project Archiceture
+# Project Architecture
 
 
-![Project Archiceture](https://raw.githubusercontent.com/albanmahmut/ContactApp/master/Archiceture_capp.jpg)
+![Project Architecture](https://raw.githubusercontent.com/albanmahmut/ContactApp/master/Archiceture_capp.jpg)
 
 
 # User Login Flow
@@ -91,7 +91,7 @@ Path for adding dependency to your project. IntelliJ IDEA > Code > Generare > De
 ### ER-Diagram
 
 
-![ERR_Diagram](https://raw.githubusercontent.com/albanmahmut/ContactApp/master/ERR_Diagram.png)
+![ER_Diagram](https://raw.githubusercontent.com/albanmahmut/ContactApp/master/ERR_Diagram.png)
 
 
 
